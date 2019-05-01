@@ -28,8 +28,8 @@ section, summary, time, mark, audio, video {
 	.videoWrapper {
 		position: relative;
 		padding-bottom: 56.25%; /* 16:9 */
-		height: 0;
 		padding-top: 25px;
+		height: 0;
 	}
 	.videoWrapper iframe {
 		position: absolute;
