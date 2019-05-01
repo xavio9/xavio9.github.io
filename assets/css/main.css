@@ -31,6 +31,7 @@ section, summary, time, mark, audio, video {
 		padding-top: 25px;
 		height: 0;
 	}
+
 	.videoWrapper iframe {
 		position: absolute;
 		top: 0;
